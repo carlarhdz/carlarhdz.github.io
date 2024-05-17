@@ -26,6 +26,8 @@ Además de las discusiones y artículos, también mostraré algunos de mis traba
 - **Proyectos escolares**: Trabajos y proyectos realizados en el contexto académico.
 - **Proyectos personales**: Iniciativas propias impulsadas por mi curiosidad y pasión por estos temas.
 
+Puedes ver algunos de mis proyectos en mi [perfil de GitHub](https://github.com/carlarhdz).
+
 ## ¡Contáctame!
 
 Espero que disfruten mi perfil. No duden en contactarme para cualquier duda o pregunta que tengan. Estoy aquí para ayudar y compartir mi amor por las matemáticas y la ciencia de datos.
