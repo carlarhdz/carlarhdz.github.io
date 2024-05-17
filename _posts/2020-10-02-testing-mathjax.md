@@ -2,8 +2,8 @@
 layout: post
 title: INEGI Shapefiles
 tags: geopandas
-math: true
 date: 2024-05-17 18:00 +0800
+toc: true
 ---
 # Inegi Shapefiles
 
@@ -24,7 +24,7 @@ Consiste en un conjunto de archivos que juntos representan datos geoespaciales v
 GeoPandas extiende las capacidades de Pandas, una biblioteca muy popular para la manipulación de datos en Python, al agregar soporte para datos espaciales.
 
 ## Código
-Después de que tengamos el Shapefile que vamos a analizar podemos hacer código.
+Después de que tengamos el Shapefile que vamos a analizar podemos hacer código. Algunos comandos básicos son:
 
 Leer y creear el DataFrame:
 ```python
