@@ -5,6 +5,7 @@ author: Carla Reyes
 tags:
 - Perspectiva de Género
 date: 2024-05-17 17:00 +0800
+toc: true
 ---
 
 # Perspectiva de Género en Ciencia de Datos
