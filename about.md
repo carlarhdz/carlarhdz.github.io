@@ -3,17 +3,45 @@ layout: page
 title: Sobre mí
 ---
 
+Soy una estudiante de Ciencia de Datos y Matemáticas Aplicadas en el ITAM. Originaria de Monterrey, Nuevo León, actualmente vivo en la Ciudad de México. Me interesan mucho las matemáticas, especialmente la estadística. Estoy muy interesada en formar parte de proyectos de alto impacto social, particularmente en hacer de la ciencia de datos un espacio con perspectiva de género.
 
+## Intereses
 
-Soy una estudiante de ciencia de datos y matemáticas aplicadas en el ITAM. Originaria de Monterrey, Nuevo León, pero actualmente vivo en el Ciudad de México. Me interesan mucho las matemáticas, en especial la estadística. Estoy muy interesada en formar parte de proyectos de alto impacto social, en especial, me gustaría trabajar en hacer de la ciencia de datos un espacio que cuente con perspectiva de género. Disfruto mucho la lectura, uno de mis autores favoritos es Malcolm Gladwell, me gusta el deporte, en especial el atletismo, y me gusta aprender idiomas, se hablar español, inglés, alemán y un poco de japonés. 
+- **Lectura**: Disfruto mucho la lectura. Uno de mis autores favoritos es Malcolm Gladwell.
+- **Deportes**: Me gusta el deporte, especialmente el atletismo.
+- **Idiomas**: Me gusta aprender idiomas. Hablo español, inglés, alemán y un poco de japonés.
 
-Soy parte de la representación de alumnos de ciencia de datos en el ITAM, y busco que la carrera sea un espacio cómodo, divertido y lleno de oportunidades para todos sus estudiantes. Asimismo, desde preparatoria me he interesado mucho en promover la educación para todos los niños mexicanos, es por eso que fui presidenta de la organización Sacbé, la cual busca disminuir la deserción escolar en Nuevo León. Para continuar con este tipo de proyectos, actualmente doy clases a niños de primaria en el club estudiantil ITAM Construye.
+## Actividades y Logros
 
-Siempre me ha interesado mucho mi formación académica, en la universidad pude obtener el reconocimiento a la excelencia académica. Asimismo, obtuve el mejor promedio de la carrera durante mi primer año de estudios. Es por esto que creo que algunas de las habilidades que he aprendido en la universidad son la comunicación, el trabajo en equipo, el análisis, la organización y la determinación.
+### Representación Estudiantil
 
-Algunas herramientas que sé utilizar son:
-* Latex
-* Python
-* Java
-* R
-* Docker
+Soy parte de la representación de alumnos de Ciencia de Datos en el ITAM. Mi objetivo es que la carrera sea un espacio cómodo, divertido y lleno de oportunidades para todos sus estudiantes.
+
+### Educación
+
+Desde la preparatoria, me he interesado en promover la educación para todos los niños mexicanos. Fui presidenta de la organización Sacbé, que busca disminuir la deserción escolar en Nuevo León. Actualmente, doy clases a niños de primaria en el club estudiantil ITAM Construye.
+
+### Reconocimientos Académicos
+
+- **Reconocimiento a la Excelencia Académica** en la universidad.
+- **Mejor promedio de la carrera** durante mi primer año de estudios.
+
+## Habilidades
+
+Durante mi formación universitaria, he desarrollado habilidades en:
+
+- Comunicación
+- Trabajo en equipo
+- Análisis
+- Organización
+- Determinación
+
+## Herramientas
+
+Algunas de las herramientas que sé utilizar son:
+
+- LaTeX
+- Python
+- Java
+- R
+- Docker
