@@ -45,3 +45,9 @@ Algunas de las herramientas que sé utilizar son:
 - Java
 - R
 - Docker
+- Github
+- Polars y Pandas
+- SQL
+- MongoDB
+- Neo4j
+- Paquetería de Office
