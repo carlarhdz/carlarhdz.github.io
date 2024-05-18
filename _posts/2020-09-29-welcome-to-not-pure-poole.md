@@ -30,3 +30,9 @@ Puedes ver algunos de mis proyectos en mi [perfil de GitHub](https://github.com/
 ## ¡Contáctame!
 
 Espero que disfruten mi perfil. No duden en contactarme para cualquier duda o pregunta que tengan. Estoy aquí para ayudar y compartir mi amor por las matemáticas y la ciencia de datos.
+
+## Contacto
+
+- 📧 Correo: [carlareyes170404@gmail.com](mailto:carlareyes170404@gmail.com)
+- 🐙 GitHub: [https://github.com/carlarhdz](https://github.com/carlarhdz)
+- 💼 LinkedIn: [https://www.linkedin.com/in/carla-reyes-hern%C3%A1ndez-b3619b1a1/](https://www.linkedin.com/in/carla-reyes-hern%C3%A1ndez-b3619b1a1/)
