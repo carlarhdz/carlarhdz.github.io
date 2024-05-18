@@ -55,3 +55,7 @@ Algunas de las herramientas que sé utilizar son:
 ![Foto1](foto1.jpeg)
 
 ![Foto2](foto2.jpeg)
+
+![Foto7](foto7.jpeg)
+
+![Foto8](foto8.jpeg)
