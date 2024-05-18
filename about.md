@@ -51,3 +51,7 @@ Algunas de las herramientas que sé utilizar son:
 - MongoDB
 - Neo4j
 - Paquetería de Office
+
+![Foto1](foto1.jpeg)
+
+![Foto2](foto2.jpeg)
