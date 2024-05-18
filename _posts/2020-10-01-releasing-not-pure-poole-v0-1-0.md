@@ -18,9 +18,13 @@ Los datos históricos a menudo reflejan las desigualdades de género existentes.
 
 Incorporar una perspectiva de género ayuda a asegurar que las decisiones tomadas a partir de los análisis de datos no perpetúen desigualdades. Esto es crucial en áreas como la salud, la educación y el empleo, donde las decisiones pueden tener un impacto significativo en las vidas de las personas.
 
+![Foto3](foto3.jpeg)
+
 ## Innovación y Creatividad
 
 La inclusión de la perspectiva de género fomenta la diversidad de pensamiento, lo que puede conducir a soluciones más innovadoras y creativas. Las diferentes perspectivas ayudan a identificar problemas y oportunidades que de otro modo podrían pasarse por alto. Considerar el género puede abrir nuevas áreas de investigación y desarrollo. Por ejemplo, puede llevar a preguntas sobre cómo diferentes géneros utilizan productos o servicios, lo que puede mejorar el diseño y la accesibilidad.
+
+![Foto4](foto4.jpeg)
 
 ## Responsabilidad Social y Ética
 
@@ -28,6 +32,10 @@ Las organizaciones tienen una responsabilidad ética de asegurarse de que sus pr
 
 En muchos lugares, existen regulaciones y políticas que requieren la consideración del género en el análisis de datos. Cumplir con estas normativas es esencial para evitar sanciones y promover la equidad.
 
+![Foto5](foto5.jpeg)
+
 ## Empoderamiento y Equidad
 
 Analizar los datos con una perspectiva de género puede revelar desigualdades ocultas y proporcionar la base para políticas y programas que empoderen a grupos marginados. Al identificar y abordar las disparidades de género, las organizaciones pueden trabajar activamente hacia la equidad de género, mejorando así su reputación y su impacto social.
+
+![Foto6](foto6.jpeg)
