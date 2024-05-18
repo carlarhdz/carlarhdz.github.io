@@ -67,3 +67,7 @@ Dos columnas:
 ```python
 datos[['columna1','columna2']]
 ```
+
+## Repositorio
+
+Puedes consultar el siguiente [repositorio de Github](https://github.com/carlarhdz/INEGIShapefiles) para conocer más de este tema.
